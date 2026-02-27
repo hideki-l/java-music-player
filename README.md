@@ -6,6 +6,8 @@ Une application de lecture de musique développée avec JavaFX.
 
 https://www.youtube.com/watch?v=T244C12epLM
 
+![](screenshot.png)
+
 ## Prérequis
 
 - Kit de Développement Java (JDK) version 18 ou ultérieure
@@ -27,8 +29,7 @@ Pour tester l'application avec vos propres musiques, vous pouvez les placer dans
 Clonez le dépôt :
 
 ```bash
-git clone https://gitlab.ulb.be/ulb-infof307/2025-groupe-8.git
-cd 2025-groupe-8
+git clone https://github.com/hideki-l/java-music-player.git
 ```
 
 Compilez le projet avec Maven :
